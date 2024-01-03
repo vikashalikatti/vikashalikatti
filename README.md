@@ -1,4 +1,4 @@
-<p align="center"><img src="https://github.com/vikashalikatti/vikashalikatti/raw/main/developer-dribbble.gif" alt="Developer GIF" width="800" height="500"/></p>
+<p align="center"><img src="https://github.com/vikashalikatti/vikashalikatti/raw/main/developer-dribbble.gif" alt="Developer GIF" width="600" height="400"/></p>
 <h1 align="center">Hi 👋, I'm Vikas L Halikatti</h1>
 <h3 align="center">Coffee-Powered Java Developer ☕ | Turning Ideas into Byte-sized Brilliance</h3>
 
